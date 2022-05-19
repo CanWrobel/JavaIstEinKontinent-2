@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Pflichtaufgaben2/Pflichtaufgaben2.iml" filepath="$PROJECT_DIR$/Pflichtaufgaben2/Pflichtaufgaben2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TeilbarDurch17/TeilbarDurch17.iml" filepath="$PROJECT_DIR$/TeilbarDurch17/TeilbarDurch17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ubung 5 Ausdrücke und Casting/Ubung 5 Ausdrücke und Casting.iml" filepath="$PROJECT_DIR$/Ubung 5 Ausdrücke und Casting/Ubung 5 Ausdrücke und Casting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woche4PurgePackages.iml" filepath="$PROJECT_DIR$/Woche4PurgePackages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pflichtabgaben/untitled.iml" filepath="$PROJECT_DIR$/Pflichtabgaben/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Übung4/Übung4.iml" filepath="$PROJECT_DIR$/Übung4/Übung4.iml" />
+    </modules>
+  </component>
+</project>
