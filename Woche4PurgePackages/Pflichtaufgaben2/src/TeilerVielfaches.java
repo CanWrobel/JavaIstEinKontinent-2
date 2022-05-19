@@ -13,5 +13,6 @@ public class TeilerVielfaches {
         int y = 99;
         System.out.println(ggTrekursiv(x,y));
         System.out.println("Test für Versionskontrolle");
+
     }
 }
