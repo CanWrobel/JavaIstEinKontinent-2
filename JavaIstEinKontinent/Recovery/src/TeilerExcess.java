@@ -12,6 +12,5 @@ public class TeilerExcess {
         System.out.println(ggtrekursiv(x,y));
     }
 
-
     
 }
