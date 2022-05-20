@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaIstEinKontinent.iml" filepath="$PROJECT_DIR$/JavaIstEinKontinent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Klasse Punkt und TestPunkt/Kapitel 7.iml" filepath="$PROJECT_DIR$/Klasse Punkt und TestPunkt/Kapitel 7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tennisspielerin/Tennisspielerin.iml" filepath="$PROJECT_DIR$/Tennisspielerin/Tennisspielerin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tennisspielerin/TennisspielerinReinardus/TennisspielerinReinardusKollege.iml" filepath="$PROJECT_DIR$/Tennisspielerin/TennisspielerinReinardus/TennisspielerinReinardusKollege.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tennisspielerin/TennisspielerinReinardusKomilitone.iml" filepath="$PROJECT_DIR$/Tennisspielerin/TennisspielerinReinardusKomilitone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recovery/rECOVERY.iml" filepath="$PROJECT_DIR$/Recovery/rECOVERY.iml" />
+    </modules>
+  </component>
+</project>
