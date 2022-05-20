@@ -1,4 +1,5 @@
 public class AlterMK2 {
+    //action suchen: strg+shift+a
     public static void main (String[]args){
         int x = 1;
         int y = 1;
