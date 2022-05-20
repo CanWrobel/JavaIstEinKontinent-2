@@ -84,7 +84,7 @@
     </configuration>
     <configuration name="TestPunkt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestPunkt" />
-      <module name="Kapitel 7" />
+      <module name="Punkt" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
