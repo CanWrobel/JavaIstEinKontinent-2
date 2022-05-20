@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac74c3f3-181d-440e-8282-ec9291cf8c33" name="Changes" comment="commit 2. Push" />
+    <list default="true" id="ac74c3f3-181d-440e-8282-ec9291cf8c33" name="Changes" comment="commit 2. Push 14.47 modules" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,8 +47,8 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -116,6 +116,7 @@
       <updated>1653042188285</updated>
       <workItem from="1653042189424" duration="7395000" />
       <workItem from="1653050230531" duration="48000" />
+      <workItem from="1653050342002" duration="560000" />
     </task>
     <task id="LOCAL-00001" summary="commit Freitag Feierabend">
       <created>1653049538738</created>
@@ -131,7 +132,21 @@
       <option name="project" value="LOCAL" />
       <updated>1653049582867</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit 2. Push 14.43">
+      <created>1653050622342</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653050622342</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit 2. Push 14.47 modules">
+      <created>1653050834513</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1653050834513</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +167,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit Freitag Feierabend" />
     <MESSAGE value="commit 2. Push" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 2. Push" />
+    <MESSAGE value="commit 2. Push 14.43" />
+    <MESSAGE value="commit 2. Push 14.47 modules" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 2. Push 14.47 modules" />
   </component>
 </project>
